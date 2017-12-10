@@ -17,4 +17,3 @@ function destructivelyAddElementToEndOfArray(array, element) {
   array = [...array, element];
   return array;
 }
-
